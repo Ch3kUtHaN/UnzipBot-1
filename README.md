@@ -1,6 +1,6 @@
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteam77/UnzipBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/che369/UnzipBot-1)
 
 ### Local Deploying
 1) Clone the repo
